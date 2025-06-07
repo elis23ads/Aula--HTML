@@ -30,3 +30,52 @@
     font-weight:400;
     font-size: 18px;
 }
+
+.button{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#FF8A00;
+    font-family: "Major Mono Display",monospace;
+    color:#FFFFFF;
+    width: 60px;
+    height: 40px;
+    font-size: 12px;
+    border-radius:8px;
+    font-weight: 600;
+    cursor:pointer;
+    text-align: center;
+
+}
+
+.imagens-body{
+
+    display:flex;
+    flex-direction: row;
+    font-weight: 600px;
+    margin-top: 190px;
+    align-self: base line;
+}
+
+.imagem-protetor{
+    width: 226px;
+    height: 226px;
+    align-items: end;
+}
+
+.image-creme{
+    width: 230px;
+    height: 230px;
+    margin-right:-95px;
+    margin-top: 250px;
+
+}
+
+
+.image-mulher{
+    width:246px;
+    height:400px;
+
+
+}
